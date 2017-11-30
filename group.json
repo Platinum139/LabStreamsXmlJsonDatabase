@@ -1,0 +1,74 @@
+[
+  {
+    "course": 2,
+    "title": "g345",
+    "mentor": "Allie Fox",
+    "yearOfGraduation": 2020,
+    "students": [
+      {
+        "firstName": "Alice",
+        "lastName": "Cooper",
+        "dateOfBirthday": "1992-12-13",
+        "averageMark": 4.1,
+        "phoneNumber": "380981134567",
+        "paidOrFreeGroup": "PAID"
+      },
+      {
+        "firstName": "Kim",
+        "lastName": "Loss",
+        "dateOfBirthday": "1993-07-10",
+        "averageMark": 4.2,
+        "phoneNumber": "380981234521",
+        "paidOrFreeGroup": "FREE"
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "title": "g365",
+    "mentor": "Randy Fisher",
+    "yearOfGraduation": 2021,
+    "students": [
+      {
+        "firstName": "Damian",
+        "lastName": "Johnson",
+        "dateOfBirthday": "1997-01-18",
+        "averageMark": 4.7,
+        "phoneNumber": "380981234567",
+        "paidOrFreeGroup": "FREE"
+      },
+      {
+        "firstName": "Linda",
+        "lastName": "Tyler",
+        "dateOfBirthday": "1989-07-25",
+        "averageMark": 4.3,
+        "phoneNumber": "380981214547",
+        "paidOrFreeGroup": "PAID"
+      }
+    ]
+  },
+  {
+    "course": 3,
+    "title": "g285",
+    "mentor": "James Hilton",
+    "yearOfGraduation": 2019,
+    "students": [
+      {
+        "firstName": "Alex",
+        "lastName": "Austen",
+        "dateOfBirthday": "1998-03-12",
+        "averageMark": 4.5,
+        "phoneNumber": "380984567843",
+        "paidOrFreeGroup": "FREE"
+      },
+      {
+        "firstName": "Joe",
+        "lastName": "Clark",
+        "dateOfBirthday": "1996-01-22",
+        "averageMark": 4.5,
+        "phoneNumber": "380981234561",
+        "paidOrFreeGroup": "PAID"
+      }
+    ]
+  }
+]

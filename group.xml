@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+    <title>g345</title>
+    <mentor>Allie Fox</mentor>
+    <yearOfGraduation>2020</yearOfGraduation>
+    <students>
+        <student>
+            <firstName>Alice</firstName>
+            <lastName>Cooper</lastName>
+            <dateOfBirthday>1992-12-13</dateOfBirthday>
+            <averageMark>4.1</averageMark>
+            <phoneNumber>380981134567</phoneNumber>
+            <paidOrFreeGroup>PAID</paidOrFreeGroup>
+        </student>
+        <student>
+            <firstName>Kim</firstName>
+            <lastName>Loss</lastName>
+            <dateOfBirthday>1993-07-10</dateOfBirthday>
+            <averageMark>4.2</averageMark>
+            <phoneNumber>380981234521</phoneNumber>
+            <paidOrFreeGroup>FREE</paidOrFreeGroup>
+        </student>
+    </students>
+</group>
